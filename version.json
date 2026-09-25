@@ -1,5 +1,5 @@
 {
-  "latest_version": 2,
+  "latest_version": 3,
   "min_required_version": 1,
   "download_url": "https://github.com/montaserm/health-supervisor-version/releases/latest/download/HealthSupervisor-v2.apk",
   "release_notes": "- إصلاحات وتحسينات عامة\n- إضافة نظام تحديث ذاتي\n- تحسين الأداء"
